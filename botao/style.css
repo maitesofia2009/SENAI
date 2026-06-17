@@ -48,7 +48,7 @@ margin: 10px ;
 
 .pink {
 background-color: #ff00c8
-color: aliceblue;
+color: black
 padding: 10px 50px;
 border: #FF00C8;
 border-radius: 10px;
@@ -57,7 +57,7 @@ margin: 10px ;
 }
 
 .pink:hover {
-background-color:#ff008c;
+background-color:#ffffff;
 border: black;
 color: #FF00C8;
 
