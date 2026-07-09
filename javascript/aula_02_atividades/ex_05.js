@@ -1,2 +1,4 @@
-let texto1 = 'Identificando strings'
-console.log (typeof null , texto1)
+console.log(typeof undefined)
+console.log(typeof null)   
+console.log(typeof [])     
+console.log(typeof {})
